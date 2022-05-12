@@ -1,5 +1,5 @@
 # whatIDid
-Simple RUST script to help me keep track of my daily routines
+Simple RUST cli script to help me keep track of my daily routines
 
 To use, just creates a .env in the root directory, with the following structure:  
 DBUSER = 'user'  
